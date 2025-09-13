@@ -1,7 +1,5 @@
 # Fractal Explorer in Python
 
-![Fractal Explorer GIF](screenshots/fractal_explorer.gif)
-
 A high-performance, interactive fractal explorer built with Python. This application uses Taichi for GPU acceleration (if available) for real-time exploration and falls back to a highly optimized NumPy renderer. It supports deep zooms using arbitrary-precision math via `mpmath`.
 
 ## Features
